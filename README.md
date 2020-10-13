@@ -13,7 +13,7 @@ Tips: we use the same data set as former paper and you could download it from Wi
 * The second is algorithm check. 
 
 
-### 1.Algorithm implementation
+### 1. Algorithm implementation
 **We have one main function and five computing functions**
 * Main.m ：completely realize the entire procedure
 * init_A_function.m : initialize matrix A
@@ -22,7 +22,7 @@ Tips: we use the same data set as former paper and you could download it from Wi
 * level_function.m : divide level in every piece of A
 * sample_function.m : sample final matrix F from A we want to get
 
-### 2.Algorithm check
+### 2. Algorithm check
 **We check the accuracy and rate for verifying the effect of our algorithm improvement**
 * check.m : completely realize the entire procedure
 * SVD.m : compute svd value of A
