@@ -1,4 +1,4 @@
-# LRA
+# LRA_for_NLP
 ## Abstract
 Our codes are relative to the parper 'Single Pass Entrywise-Transformed Low Rank Approximation'.    
 
