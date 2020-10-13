@@ -23,7 +23,9 @@ Tips: we use the same data set as former paper and you could download it from Wi
 * sample_function.m : sample final matrix F from A we want to get
 
 ### 2. Algorithm check
-**We check the accuracy and rate for verifying the effect of our algorithm improvement**
+**We check the accuracy and rate for verifying the effect of our algorithm improvement**  
+**We mainly detect the most time-consuming part(H-sketch), because the rest of algorithm is approximate to the former**
 * check.m : completely realize the entire procedure
 * SVD.m : compute svd value of A
 * SVD_s.m : compute svd value of F
+* Hsketch.m : sample every piece of A
